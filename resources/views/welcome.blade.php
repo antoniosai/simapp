@@ -428,7 +428,7 @@
                                 <br>
                                 <div class="feature-header">
                                     
-                                    <a href="homed.html">
+                                    <a href="home.html">
                                         <img src="/img/ss/disdukcapil-1.png" alt="">
                                     </a>
                                 </div>
