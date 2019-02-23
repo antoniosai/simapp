@@ -423,7 +423,7 @@
 						<div class="column-33">
                             <div class="feature-box">
                                 <h3 class="text-color-white text-align-center">
-                                    Disduk Capil
+                                    Disduk Capils
                                 </h3>
                                 <br>
                                 <div class="feature-header">
