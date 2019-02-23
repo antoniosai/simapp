@@ -429,7 +429,7 @@
                                 <div class="feature-header">
                                     
                                     <a href="home.html">
-                                        <img src="/img/ss/sample-1.png" alt="">
+                                        <img src="/img/ss/disdukcapil-1.png" alt="">
                                     </a>
                                 </div>
                             </div>
